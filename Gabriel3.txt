@@ -1,0 +1,16 @@
+./pasta2/Gabriel2.txt
+./pasta2/2.txt
+./pasta2/Gabriel1.txt
+./pasta2/Gabriel3.txt
+./Gabriel23/Gabriel2.txt
+./Gabriel23/Gabriel1.txt
+./Gabriel23/Gabriel3.txt
+./Gabriel3.txt
+./backup-Gabriel/pasta2/Gabriel2.txt
+./backup-Gabriel/pasta2/2.txt
+./backup-Gabriel/pasta2/Gabriel1.txt
+./backup-Gabriel/pasta2/Gabriel3.txt
+./backup-Gabriel/pasta3/pasta31/3.txt
+./backup-Gabriel/pasta1/1.txt
+./pasta3/pasta31/3.txt
+./pasta1/1.txt
